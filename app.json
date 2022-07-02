@@ -34,4 +34,12 @@
       "value": ""
   }
  }
+"buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/Serabig-Project/TG-Files-to-Link/tree/Merging.git"
+    }
+  ]
 }
