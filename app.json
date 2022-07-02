@@ -35,7 +35,7 @@
   }
  }
 }
-"buildpacks": [
+{ "buildpacks": [
     {
       "url": "heroku/python"
     },
@@ -43,4 +43,5 @@
       "url": "https://github.com/TGExplore/TG-Files-to-Link.git"
     }
   ]
+}
 
